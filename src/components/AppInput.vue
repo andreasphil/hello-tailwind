@@ -18,7 +18,7 @@
         mt-1
         outline-none
         p-2
-        rounded-lg
+        rounded
         text-gray-800
         w-full
       "/>

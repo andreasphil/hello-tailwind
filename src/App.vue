@@ -1,13 +1,5 @@
 <template>
-  <div id="app" class="
-    antialiased
-    bg-indigo-500
-    font-sans
-    h-screen
-    py-4
-    sm:px-4
-    text-gray-800
-  ">
+  <div id="app" class="antialiased bg-gray-100 font-sans h-screen py-4 sm:px-4 text-gray-800">
     <app-login/>
   </div>
 </template>

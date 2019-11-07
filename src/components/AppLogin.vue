@@ -1,28 +1,8 @@
 <template>
-  <div
-    class="
-      bg-white
-      m-auto
-      my-16
-      p-5
-      shadow-xl
-      sm:max-w-sm
-      sm:my-32
-      sm:rounded-lg
-    ">
+  <div class="bg-white m-auto my-16 p-5 shadow-xl sm:max-w-sm sm:my-32 sm:rounded">
     <div
-      class="
-        -mt-16
-        bg-gray-300
-        h-24
-        mb-6
-        mx-auto
-        object-contain
-        overflow-hidden
-        rounded-full
-        shadow-xl
-        w-24
-      ">
+      class="-mt-16 bg-gray-300 h-24 mb-6 mx-auto object-contain overflow-hidden rounded-full shadow-xl w-24"
+    >
       <img src="../assets/profile.jpeg" class="h-full max-w-6xl w-auto"/>
     </div>
 
@@ -47,7 +27,8 @@ export default {
 
   data () {
     return {
-      email: ''
+      email: '',
+      password: ''
     }
   },
 
