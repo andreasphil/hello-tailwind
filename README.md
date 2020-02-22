@@ -1,29 +1,15 @@
-# hello-tailwind
+# Hello Tailwind
 
-## Project setup
-```
-npm install
-```
+A quick tailwind demo created for a presentation on utility CSS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<a href="https://glitch.com/edit/?utm_content=project_hello-tailwind&utm_source=remix_this&utm_medium=button&utm_campaign=glitchButton#!/remix/hello-tailwind">
+  <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix%402x.png?1513093958726" alt="remix this" height="33">
+</a>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Usage
 
-### Run your tests
-```
-npm run test
-```
+This project has been generated using Vue CLI. You can:
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- `npm run start` or `npm run serve` to start a dev server
+- `npm run build` to build the project for production
+- `npm run lint` to lint and fix files
